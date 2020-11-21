@@ -1,7 +1,7 @@
 stages:
   - build
 
-build_kubegc_image:
+image:build:
   stage: build
   image: docker:stable
   before_script:
