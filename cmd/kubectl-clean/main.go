@@ -6,7 +6,7 @@ import (
 	"os"
 	"path"
 
-	"k8s-utils/pkg/kubegc"
+	"github.com/akokshar/k8s-utils/pkg/kubegc"
 
 	flag "github.com/spf13/pflag"
 	clientcmd "k8s.io/client-go/tools/clientcmd"
