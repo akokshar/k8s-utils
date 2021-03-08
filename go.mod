@@ -1,4 +1,4 @@
-module k8s-utils
+module github.com/akokshar/k8s-utils
 
 go 1.15
 
